@@ -1,6 +1,10 @@
 # Todo List Tracker App
 
-A home services app connects users with professionals offering various services for their homes, such as cleaning, repairs, maintenance, gardening, and more. Users can easily find and book trusted service providers based on their location, schedule appointment through the app
+A Todo list tracker application helps users organize tasks and manage their time effectively. 
+Key features include:
+Users can input tasks with specific due dates, allowing them to plan their schedule efficiently.
+Users can track the progress of their tasks and mark them as completed, providing a sense of accomplishment and helping them stay motivated.
+
 
 ## Installation
 
